@@ -23,5 +23,8 @@
   "homepage": "https://github.com/JoseAntonioLP03/Portfolio#readme",
   "dependencies": {
     "astro": "^7.3.2"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2"
   }
 }
